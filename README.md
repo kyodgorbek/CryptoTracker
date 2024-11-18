@@ -36,7 +36,8 @@ CryptoTracker follows **Clean Architecture** principles:
 
 ## Screenshots 📸
 
-> *Add screenshots to showcase the UI, including Night and Dark Mode and the Material 3 theme.*
+> *Add screenshots to showcase the UI, including Day and Dark Mode and the Material 3 theme.*
+
 
 ---
 
