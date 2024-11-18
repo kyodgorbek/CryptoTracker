@@ -42,15 +42,13 @@ CryptoTracker follows **Clean Architecture** principles:
 ### Night Mode Screenshots 🌙
 1. **Dark Mode (Screen 1)**  
    ![Dark Mode Screen 1](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/1screen.png?raw=true)  
-   *URL:* [Dark Mode Screen 1](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/1screen.png?raw=true)
-
+ 
 2. **Dark Mode (Screen 2)**  
    ![Dark Mode Screen 2](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/2screen.png?raw=true)  
-   *URL:* [Dark Mode Screen 2](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/2screen.png?raw=true)
-
+  
 3. **Dark Mode (Screen 3)**  
    ![Dark Mode Screen 3](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/3screen.png?raw=true)  
-   *URL:* [Dark Mode Screen 3](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/3screen.png?raw=true)
+   
 
 4. **Dark Mode (Screen 4)**  
    ![Dark Mode Screen 4](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/4screen.png?raw=true)  
@@ -59,15 +57,14 @@ CryptoTracker follows **Clean Architecture** principles:
 ### Day Mode Screenshots 🌞
 5. **Day Mode (Screen 5)**  
    ![Day Mode Screen 5](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/5screen.png?raw=true)  
-   *URL:* [Day Mode Screen 5](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/5screen.png?raw=true)
-
+  
 6. **Day Mode (Screen 6)**  
    ![Day Mode Screen 6](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/6screen.png?raw=true)  
-   *URL:* [Day Mode Screen 6](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/6screen.png?raw=true)
+  
 
 7. **Day Mode (Screen 7)**  
    ![Day Mode Screen 7](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/7screen.png?raw=true)  
-   *URL:* [Day Mode Screen 7](https://github.com/kyodgorbek/CryptoTracker/blob/master/assets/images/7screen.png?raw=true)
+  
 
 > 
 
