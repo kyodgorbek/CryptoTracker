@@ -37,7 +37,7 @@ CryptoTracker follows **Clean Architecture** principles:
 
 
 ## Screenshots 📸
-> *Add screenshots to showcase the UI, including Day and Dark 
+> *Add screenshots to showcase the UI, including Day and Dark mode
 
 ### Night Mode Screenshots 🌙
 1. **Dark Mode (Screen 1)**  
